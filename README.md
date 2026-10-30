@@ -59,7 +59,7 @@ plt.title("Univariate Linear Regression")
 plt.legend()
 plt.grid(True)
 plt.show()
-'''
+```
 
 ## Output:
 ![best fit line](sam.png)
